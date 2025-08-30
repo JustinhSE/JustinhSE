@@ -1,7 +1,7 @@
 
 ### Hey there 👋
 
-- 💼 7x LinkedIn Top Voice (Computer Science, Programming, Data Science, Machine Learning, Software Development, Robotics & Volunteering) + Featured in Times Square
+- 💼 7x LinkedIn Top Voice (Computer Science, Programming, Data Science, Machine Learning, Software Development, Robotics & Volunteering), Featured in Times Square, WayUp Top Intern 2025
 - 🎥 Incoming Software Engineer Intern @ CNN
 - 🔭 Machine Learning Research & CS @ Stony Brook University
 - ⚡ Fun fact: 4th Generation Missionary in Haiti & Founder @ Debugging Disciples
