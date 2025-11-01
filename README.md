@@ -1,10 +1,13 @@
+Hey there 👋, I’m Justin Harper — developer, speaker, and community leader!
 
-### Hey there 👋
+🚀 Featured in Times Square -  WayUp Top Intern 2025 -  3x SWE Intern
 
-- 💼 7x LinkedIn Top Voice (Computer Science, Programming, Data Science, Machine Learning, Software Development, Robotics & Volunteering), Featured in Times Square, WayUp Top Intern 2025
-- 🎥 prev. Software Engineer Intern @ CNN
-- 🔭 Machine Learning Research & CS @ Stony Brook University
-- ⚡ Fun fact: 4th Generation Missionary in Haiti & Founder @ Debugging Disciples
+🎤 Speaker at GDG (Michigan State), MLH (SBU Hacks), and Headstarter  
+
+💡 Machine Learning researcher & CS student @ Stony Brook University  
+
+🙏 Founder of Debugging Disciples — a 200+ member community empowering college men in faith, growth, and authentic brotherhood
+
  
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:justinh.tech1@gmail.com)
