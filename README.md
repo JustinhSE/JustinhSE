@@ -1,10 +1,10 @@
-Hey there 👋, I’m Justin Harper — developer, speaker, and community leader!
+Hey there 👋, I’m Justin Harper, a passionate developer, speaker, and community leader!
 
 🚀 Featured in Times Square -  WayUp Top Intern 2025 -  3x SWE Intern
 
 🎤 Speaker at GDG (Michigan State), MLH (SBU Hacks), and Headstarter  
 
-💡 Machine Learning researcher & CS student @ Stony Brook University  
+💡 Machine Learning Researcher & CS Student @ Stony Brook University  
 
 🙏 Founder of Debugging Disciples — a 200+ member community empowering college men in faith, growth, and authentic brotherhood
 
