@@ -1,6 +1,8 @@
 Hey there 👋, I’m Justin Harper, a passionate developer, speaker, and community leader!
 
-🚀 Featured in Times Square -  WayUp Top Intern 2025 -  3x SWE Intern
+🤖 Prev. SWE Intern on Ad Experiences Team @ CNN
+
+🚀 Featured in Times Square -  WayUp Top Intern 2025 
 
 🎤 Speaker at GDG (Michigan State), MLH (SBU Hacks), and Headstarter  
 
