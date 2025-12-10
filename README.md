@@ -48,7 +48,8 @@ Hey there 👋, I’m Justin Harper, a passionate developer, speaker, and commun
 
 ## GitHub Stats
 
-![justinhSE's Stats](https://github-readme-stats.vercel.app/api?username=justinhSE&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
+![Justin's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=justinhSE&theme=gruvbox)
+
 
 ## 🎧 What I am listening to 🎧
 
