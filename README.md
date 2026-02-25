@@ -1,6 +1,6 @@
 Hey there 👋, I’m Justin Harper, a passionate developer, speaker, and community leader!
 
-🤖 Prev. SWE Intern on Ad Experiences Team @ CNN
+🤖 SWE Intern on Geo Team @ Google
 
 🚀 Featured in Times Square -  WayUp Top Intern 2025 
 
