@@ -8,7 +8,7 @@ Hey there 👋, I’m Justin Harper, a passionate developer, speaker, and commun
 
 💡 Machine Learning Researcher & CS Student @ Stony Brook University  
 
-🙏 Founder of Debugging Disciples — a 240+ member community empowering college men in faith, growth, and authentic brotherhood
+🙏 Founder of Debugging Disciples — a 260+ member community empowering college men in faith, growth, and authentic brotherhood
 
  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://www.medium.com/@justinh.tech1)
