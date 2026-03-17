@@ -22,7 +22,6 @@ Hey there 👋, I’m Justin Harper, a passionate developer, speaker, and commun
 | Systems | (COMING SOON) | _link_ |
 | Machine Learning | (COMING SOON) | _link_ |
 
-> Replace the placeholders above with your real projects. Tip: keep 2–5 projects per skill and link directly to the GitHub repo.
 
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
