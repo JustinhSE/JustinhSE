@@ -18,9 +18,9 @@ Hey there 👋, I’m Justin Harper, a passionate developer, speaker, and commun
 
 | Main skill | Project | Repo |
 |---|---|---|
-| Full Stack | _Project name_ | _link_ |
-| Systems | _Project name_ | _link_ |
-| Machine Learning | _Project name_ | _link_ |
+| Full Stack | (COMING SOON) | _link_ |
+| Systems | (COMING SOON) | _link_ |
+| Machine Learning | (COMING SOON) | _link_ |
 
 > Replace the placeholders above with your real projects. Tip: keep 2–5 projects per skill and link directly to the GitHub repo.
 
