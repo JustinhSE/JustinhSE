@@ -9,11 +9,20 @@ Hey there 👋, I’m Justin Harper, a passionate developer, speaker, and commun
 💡 Machine Learning Researcher & CS Student @ Stony Brook University  
 
 🙏 Founder of Debugging Disciples — a 260+ member community empowering college men in faith, growth, and authentic brotherhood
-
  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://www.medium.com/@justinh.tech1)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:justinh.tech1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=justinhtech)
+
+## Projects
+
+| Main skill | Project | Repo |
+|---|---|---|
+| Full Stack | _Project name_ | _link_ |
+| Systems | _Project name_ | _link_ |
+| Machine Learning | _Project name_ | _link_ |
+
+> Replace the placeholders above with your real projects. Tip: keep 2–5 projects per skill and link directly to the GitHub repo.
 
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,5 +63,3 @@ Hey there 👋, I’m Justin Harper, a passionate developer, speaker, and commun
 ## 🎧 What I am listening to 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=49g1pe18e5cf7t6f7cj1vbjtp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/49g1pe18e5cf7t6f7cj1vbjtp?si=3a0bac1db0504d25)
-
-
